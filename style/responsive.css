@@ -1,0 +1,17 @@
+@media only screen and (max-width: 980px) {
+   .headerList {
+       display: none !important;
+   }
+  }
+  @media only screen and (max-width: 767px) {
+    .rss {
+        width: 100px !important;
+        height:auto;
+    }
+    .smthSS {
+        
+        height: 40vh !important;
+       
+    }
+    
+   }
